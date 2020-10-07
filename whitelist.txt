@@ -34,3 +34,9 @@ licensing.bitmovin.com
 tags.adsafety.net
 awin1.com
 digidip.net
+browser.pipe.aria.microsoft.com
+mobile.pipe.aria.microsoft.com
+nexusrules.officeapps.live.com
+settings-win.data.microsoft.com
+v10.events.data.microsoft.com
+watson.telemetry.microsoft.com
