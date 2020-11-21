@@ -15,7 +15,6 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science
 https://raw.githubusercontent.com/wlqY8gkVb9w1Ck5MVD4lBre9nWJez8/W10TelemetryBlocklist/master/W10TelemetryBlocklist
@@ -51,7 +50,6 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.t
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-https://v.firebog.net/hosts/Prigent-Crypto.txt
 https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
