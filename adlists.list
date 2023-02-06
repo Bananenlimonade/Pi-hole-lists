@@ -65,3 +65,9 @@ https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://urlhaus.abuse.ch/downloads/hostfile/
 https://v.firebog.net/hosts/Prigent-Malware.txt
+
+# Domain Squatting
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting1
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting2
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting3
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting4
